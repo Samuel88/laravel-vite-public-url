@@ -1,0 +1,13 @@
+.background-public {
+    height: 400px;
+    aspect-ratio: 1;
+    background-size: cover;
+    background-image: url('/images/pingu3.jpg');
+}
+
+.background-resources {
+    height: 400px;
+    aspect-ratio: 1;
+    background-size: cover;
+    background-image: url('../images/pingu.jpg');
+}
